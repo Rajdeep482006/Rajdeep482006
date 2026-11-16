@@ -1,348 +1,275 @@
-# 👋 Hi, I'm Rajdeep Ghosh
+<h1 align="center">👋 Hi, I'm Rajdeep Ghosh</h1>
 
-### 🚀 Full-Stack Developer • MERN Stack • Java • Problem Solver
+<h3 align="center">🚀 Full-Stack Developer • MERN Stack • Java • Problem Solver</h3>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;Frontend+%7C+Backend+Developer;Java+Developer;Building+Smart+Digital+Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=0E75B6\&center=true\&vCenter=true\&width=700\&lines=Full-Stack+Developer;MERN+Stack+Developer;Frontend+%7C+Backend+Developer;Java+Developer;Building+Smart+Digital+Solutions)" alt="Typing SVG" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Code.+Create.+Repeat.;Build+something+awesome+every+day.;Turning+ideas+into+real+projects.;Learn.+Build.+Improve.;Dream+it.+Code+it.;Never+stop+learning.;Good+code+starts+with+a+good+idea." alt="Typing Quotes" />
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/Rajdeep482006](https://github.com/Rajdeep482006)">
-&#x20;   \<img src="[https://img.shields.io/github/followers/Rajdeep482006?label=Followers&style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/github/followers/Rajdeep482006?label=Followers\&style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub Followers"/>
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/Rajdeep482006?tab=repositories](https://github.com/Rajdeep482006?tab=repositories)">
-&#x20;   \<img src="[https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="Repositories"/>
-&#x20; \</a>
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=rajdeep482006&label=Profile%20Views&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=rajdeep482006\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)" alt="Profile Views"/>
-\</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajdeep482006&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Rajdeep482006?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Rajdeep Ghosh**, a passionate developer who enjoys building modern, scalable and interactive applications.
+I'm **Rajdeep Ghosh**, a passionate developer focused on building modern, interactive and useful applications.
 
-- 🔭 Currently working on [**Smart Campus Platform**](https://github.com/Satyajit734/Smart-Campus-Platform)
+- 🔭 Currently working on **Smart Campus Platform**
 - 🌱 Currently learning **Game Development**
-- 👯 Looking to collaborate on [**Flash**](https://github.com/Rajdeep482006/Flash)
-- 🤝 Looking for help with [**UFO**](https://github.com/Rajdeep482006/UFO)
+- 👯 Looking to collaborate on **Flash**
+- 🤝 Looking for help with **UFO**
 - 💬 Ask me about **Full-Stack Development**
-- 🧠 Interested in **MERN Stack, Java, Web Development & Software Projects**
-- 📚 Always learning something new
-- ⚡ Fun fact: **I love turning ideas into working projects.**
+- 🧠 Interested in **MERN Stack, Java & Web Development**
+- 🚀 Always learning and building new things
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-\<table>
-\<tr>
-\<td width="50%">
+<table>
+<tr>
 
-## 🏫 Smart Campus Platform
+<td width="50%" valign="top">
 
-A smart digital platform designed to connect students, faculty and campus activities in one place.
+<h3>🏫 Smart Campus Platform</h3>
 
-**Tech:** React • Node.js • Express • MongoDB
+<p>
+A smart campus collaboration platform designed to connect students, faculty and campus activities.
+</p>
 
-\<a href="[https://github.com/Satyajit734/Smart-Campus-Platform](https://github.com/Satyajit734/Smart-Campus-Platform)">
-\<img src="[https://img.shields.io/badge/View%20Project-0E75B6?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View%20Project-0E75B6?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+<p>
+<b>React • Node.js • Express • MongoDB</b>
+</p>
 
-\</td>
+<a href="https://github.com/Satyajit734/Smart-Campus-Platform">
+<img src="https://img.shields.io/badge/View_Project-0E75B6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-\<td width="50%">
+</td>
 
-## ⚡ Flash
+<td width="50%" valign="top">
 
-A project focused on creating a fast, modern and interactive digital experience.
+<h3>⚡ Flash</h3>
 
-**Tech:** Web Development • JavaScript
+<p>
+A modern project focused on creating an interactive and fast digital experience.
+</p>
 
-\<a href="[https://github.com/Rajdeep482006/Flash](https://github.com/Rajdeep482006/Flash)">
-\<img src="[https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+<p>
+<b>JavaScript • Web Development</b>
+</p>
 
-\</td>
-\</tr>
+<a href="https://github.com/Rajdeep482006/Flash">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-\<tr>
-\<td width="50%">
+</td>
 
-## 🛸 UFO
+</tr>
 
-An experimental project where I'm exploring new development ideas and concepts.
+<tr>
 
-**Tech:** Programming • Web Development
+<td width="50%" valign="top">
 
-\<a href="[https://github.com/Rajdeep482006/UFO](https://github.com/Rajdeep482006/UFO)">
-\<img src="[https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+<h3>🛸 UFO</h3>
 
-\</td>
+<p>
+An experimental project where I'm exploring new programming and development ideas.
+</p>
 
-\<td width="50%">
+<p>
+<b>Programming • Web Development</b>
+</p>
 
-## 💡 More Projects
+<a href="https://github.com/Rajdeep482006/UFO">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Check out my GitHub repositories to explore my other projects, experiments and learning journey.
+</td>
 
-\<a href="[https://github.com/Rajdeep482006?tab=repositories](https://github.com/Rajdeep482006?tab=repositories)">
-\<img src="[https://img.shields.io/badge/Explore%20All%20Repositories-2EA44F?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore%20All%20Repositories-2EA44F?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+<td width="50%" valign="top">
 
-\</td>
-\</tr>
-\</table>
+<h3>💡 More Projects</h3>
+
+<p>
+Explore my GitHub repositories to see my latest projects, experiments and learning journey.
+</p>
+
+<a href="https://github.com/Rajdeep482006?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Repositories-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,oracle" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,android,arduino,vscode" />
+</p>
 
 ---
 
 # 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=rajdeep482006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=rajdeep482006\&show_icons=true\&include_all_commits=true\&count_private=true\&hide_border=true\&rank_icon=github\&theme=tokyonight)" height="180" alt="GitHub Stats"/>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep482006&layout=compact&langs_count=10&hide_border=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep482006\&layout=compact\&langs_count=10\&hide_border=true\&theme=tokyonight)" height="180" alt="Top Languages"/>
-\</p>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajdeep482006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep482006&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</p>
 
 ---
 
 # 🔥 Contribution Streak
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=rajdeep482006&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=rajdeep482006\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak"/>
-\</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rajdeep482006&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 📈 Contribution & Activity Graph
+# 📈 Contribution & Activity
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=rajdeep482006&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=rajdeep482006\&theme=tokyo-night\&hide_border=true\&area=true)" alt="Contribution Activity Graph"/>
-\</p>
-
----
-
-# 🐍 Contribution Snake
-
-\<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/Rajdeep482006/Rajdeep482006/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Rajdeep482006/Rajdeep482006/output/github-contribution-grid-snake.svg)" alt="GitHub Contribution Snake"/>
-\</p>
-
-> ⚠️ The snake animation requires the GitHub Actions workflow described below.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdeep482006&custom_title=Rajdeep's%20Contribution%20Activity&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
-# 📅 Commit Graph
+# 📅 Commit Activity
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=rajdeep482006&custom_title=Rajdeep](https://github-readme-activity-graph.vercel.app/graph?username=rajdeep482006\&custom_title=Rajdeep)'s%20Commit%20Activity&hide_border=true&area=true&theme=react-dark" alt="Commit Activity"/>
-\</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeep482006&theme=tokyonight" />
+</p>
 
 ---
 
 # 🏆 GitHub Achievements
 
-\<p align="center">
-&#x20; \<img src="[https://github-profile-trophy.vercel.app/?username=rajdeep482006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4](https://github-profile-trophy.vercel.app/?username=rajdeep482006\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&column=4)" alt="GitHub Trophies"/>
-\</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajdeep482006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+</p>
 
 ---
 
-# 📊 Repository & Star Overview
+# 🐍 Contribution Snake
 
-\<p align="center">
-
-\<a href="[https://github.com/Rajdeep482006?tab=repositories](https://github.com/Rajdeep482006?tab=repositories)">
-\<img src="[https://img.shields.io/badge/Total%20Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Total%20Repositories-View%20on%20GitHub-181717?style=for-the-badge\&logo=github)"/>
-\</a>
-
-\<a href="[https://github.com/Rajdeep482006?tab=stars](https://github.com/Rajdeep482006?tab=stars)">
-\<img src="[https://img.shields.io/badge/⭐%20Stars%20Received-View%20on%20GitHub-FFD700?style=for-the-badge](https://img.shields.io/badge/⭐%20Stars%20Received-View%20on%20GitHub-FFD700?style=for-the-badge)"/>
-\</a>
-
-\<a href="[https://github.com/Rajdeep482006](https://github.com/Rajdeep482006)">
-\<img src="[https://img.shields.io/github/followers/Rajdeep482006?label=GitHub%20Followers&style=for-the-badge&logo=github](https://img.shields.io/github/followers/Rajdeep482006?label=GitHub%20Followers\&style=for-the-badge\&logo=github)"/>
-\</a>
-
-\</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rajdeep482006/Rajdeep482006/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
-# 🛠️ Languages & Tools
+# 📊 GitHub Overview
 
-### 💻 Programming Languages
+<p align="center">
 
-\<p align="left">
-\<a href="[https://www.java.com/](https://www.java.com/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" width="45" height="45" alt="Java"/>
-\</a>
-\<a href="[https://www.python.org/](https://www.python.org/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" width="45" height="45" alt="Python"/>
-\</a>
-\<a href="[https://en.wikipedia.org/wiki/C\_(programming_language)](https://en.wikipedia.org/wiki/C_\(programming_language\))">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)" width="45" height="45" alt="C"/>
-\</a>
-\<a href="[https://isocpp.org/](https://isocpp.org/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)" width="45" height="45" alt="C++"/>
-\</a>
-\<a href="[https://www.php.net/](https://www.php.net/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)" width="45" height="45" alt="PHP"/>
-\</a>
-\<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" width="45" height="45" alt="JavaScript"/>
-\</a>
-\</p>
+<img src="https://img.shields.io/github/stars/Rajdeep482006?style=for-the-badge&logo=github&label=Total%20Stars" />
 
-### 🌐 Frontend Development
+<img src="https://img.shields.io/github/followers/Rajdeep482006?style=for-the-badge&logo=github&label=Followers" />
 
-\<p align="left">
-\<a href="[https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)" width="45" height="45" alt="HTML5"/>
-\</a>
-\<a href="[https://www.w3.org/Style/CSS/](https://www.w3.org/Style/CSS/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)" width="45" height="45" alt="CSS3"/>
-\</a>
-\<a href="[https://react.dev/](https://react.dev/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" width="45" height="45" alt="React"/>
-\</a>
-\<a href="[https://angular.dev/](https://angular.dev/)">
-\<img src="[https://angular.io/assets/images/logos/angular/angular.svg](https://angular.io/assets/images/logos/angular/angular.svg)" width="45" height="45" alt="Angular"/>
-\</a>
-\<a href="[https://tailwindcss.com/](https://tailwindcss.com/)">
-\<img src="[https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)" width="45" height="45" alt="Tailwind CSS"/>
-\</a>
-\</p>
+<img src="https://komarev.com/ghpvc/?username=rajdeep482006&style=for-the-badge&label=Profile%20Views" />
 
-### ⚙️ Backend & Database
-
-\<p align="left">
-\<a href="[https://nodejs.org/](https://nodejs.org/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)" width="45" height="45" alt="Node.js"/>
-\</a>
-\<a href="[https://expressjs.com/](https://expressjs.com/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)" width="45" height="45" alt="Express.js"/>
-\</a>
-\<a href="[https://www.mongodb.com/](https://www.mongodb.com/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)" width="45" height="45" alt="MongoDB"/>
-\</a>
-\<a href="[https://www.mysql.com/](https://www.mysql.com/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)" width="45" height="45" alt="MySQL"/>
-\</a>
-\<a href="[https://firebase.google.com/](https://firebase.google.com/)">
-\<img src="[https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)" width="45" height="45" alt="Firebase"/>
-\</a>
-\<a href="[https://www.oracle.com/database/](https://www.oracle.com/database/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)" width="45" height="45" alt="Oracle"/>
-\</a>
-\</p>
-
-### 🔧 Tools & Platforms
-
-\<p align="left">
-\<a href="[https://git-scm.com/](https://git-scm.com/)">
-\<img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)" width="45" height="45" alt="Git"/>
-\</a>
-\<a href="[https://www.arduino.cc/](https://www.arduino.cc/)">
-\<img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)" width="45" height="45" alt="Arduino"/>
-\</a>
-\<a href="[https://developer.android.com/](https://developer.android.com/)">
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)" width="45" height="45" alt="Android"/>
-\</a>
-\</p>
+</p>
 
 ---
 
-# 🧩 Tech Stack
+# 🎯 Current Focus
 
-```text
-Frontend       → HTML • CSS • JavaScript • React • Angular • Tailwind
-Backend        → Node.js • Express.js • PHP
-Database       → MongoDB • MySQL • Oracle • Firebase
-Languages      → Java • Python • C • C++ • JavaScript • PHP
-Tools          → Git • GitHub • Arduino • Android
-Currently      → MERN Stack • Game Development
-```
+<p align="center">
 
----
+| 🚀 Focus | 📌 Status |
+|---|---|
+| 🏫 Smart Campus Platform | 🔨 Building |
+| ⚛️ React & MERN | 📚 Learning & Building |
+| 🔐 Backend Development | 🚀 Improving |
+| 🎮 Game Development | 🌱 Learning |
+| 💻 Real-World Projects | 🔥 Active |
 
-# 📌 What I'm Currently Building
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                 CURRENT FOCUS                        │
-├──────────────────────────────────────────────────────┤
-│ 🏫 Smart Campus Platform                             │
-│ ⚛️ React & MERN Stack                               │
-│ 🔐 Backend & Database Integration                   │
-│ 🎮 Game Development                                 │
-│ 🚀 Building Real-World Projects                     │
-└──────────────────────────────────────────────────────┘
-```
+</p>
 
 ---
 
-# 🎯 2026 Developer Goals
+# 🎯 2026 Goals
 
-- [x] Learn modern web development
-- [x] Build full-stack projects
-- [x] Work with Git & GitHub
-- [ ] Build more production-ready MERN applications
-- [ ] Improve backend architecture
-- [ ] Build and publish a game
-- [ ] Contribute to open-source projects
-- [ ] Improve problem-solving & DSA
-- [ ] Build a strong developer portfolio
+- 🚀 Build production-ready MERN applications
+- 🧠 Improve DSA & problem solving
+- ⚙️ Become stronger in backend development
+- 🎮 Build and publish a game
+- 🌎 Contribute to open-source
+- 💼 Build a professional developer portfolio
+- 📚 Keep learning new technologies
 
 ---
 
 # 🤝 Connect With Me
 
-\<p align="center">
+<p align="center">
 
-\<a href="mailto\:rajdeepghosh804\@gmail.com">
-\<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
-\</a>
+<a href="mailto:rajdeepghosh804@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-\<a href="[https://www.linkedin.com/in/rajdeep-ghosh/](https://www.linkedin.com/in/rajdeep-ghosh/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-\</a>
+<a href="https://www.linkedin.com/in/rajdeep-ghosh-b757482a9/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-\<a href="[https://www.instagram.com/rajdeep_7\_/](https://www.instagram.com/rajdeep_7_/)">
-\<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)"/>
-\</a>
+<a href="https://www.instagram.com/rajdeep_7_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-\<a href="[https://www.youtube.com/](https://www.youtube.com/)">
-\<img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)"/>
-\</a>
-
-\</p>
+</p>
 
 ---
 
-# 💬 Ask Me About
+## 💬 Ask Me About
 
-\<p align="center">
+<p align="center">
+  
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Java` • `JavaScript` • `MySQL` • `Full-Stack Development`
 
-`React` • `Node.js` • `Express` • `MongoDB` • `Java` • `JavaScript` • `MySQL` • `Full Stack Development`
-
-\</p>
-
----
-
-# ⚡ Developer Quote
-
-\<p align="center">
-&#x20; \<i>"First, solve the problem. Then, write the code."\</i>
-\</p>
+</p>
 
 ---
 
-# 🌟 Thanks for Visiting!
+## ⚡ Developer Mindset
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C63FF&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0E75B6,100:6C63FF\&height=120\&section=footer)"/>
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve;Every+bug+is+another+lesson.;Small+progress+is+still+progress.;Consistency+beats+motivation.;Build+today.+Improve+tomorrow." alt="Developer Mindset" />
+</p>
 
-\<p align="center">   \<b>⭐ If you like my work, consider giving my repositories a star!\</b> \</p>
+---
 
-\<p align="center">   \<a href="[https://github.com/Rajdeep482006](https://github.com/Rajdeep482006)">     \<img src="[https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>   \</a> \</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C63FF&height=120&section=footer" />
+</p>
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b>
+</p>
